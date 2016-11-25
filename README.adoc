@@ -1,0 +1,6 @@
+= DeskOS: gnome-web-photo RPM
+
+This is the _gnome-web-photo_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/gnome-web-photo-0.10.5-5.el7.nux.src.rpm[gnome-web-photo-0.10.5-5.el7.nux.src.rpm]

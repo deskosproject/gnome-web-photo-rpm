@@ -1,7 +1,7 @@
 Summary: HTML pages thumbnailer
 Name: gnome-web-photo
 Version: 0.10.5
-Release: 5%{?dist}
+Release: 6%{?dist}
 License: LGPLv2+
 Group: Applications/Internet
 URL: http://download.gnome.org/sources/gnome-web-photo/0.10/
@@ -43,6 +43,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/thumbnailers/gnome-web-photo.thumbnailer
 
 %changelog
+* Fri Nov 25 2016 Ricardo Arguello <rarguello@deskosproject.org> - 0.10.5-6
+- Rebuilt for DeskOS
+
 * Sat Aug 03 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.10.5-5
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_20_Mass_Rebuild
 
